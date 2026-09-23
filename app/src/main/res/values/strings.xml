@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">pract17_Trefilova</string>
+    <string name="crime_title_hint">Enter a title for the crime.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="crime_date">We Nov 14 11:56 EST 2018</string>
+    <string name="crime_suspect_text">CHOOSE SUSPECT</string>
+    <string name="crime_report_text">SEND CRIME REPORT</string>
+    <string name="crime_report">%1$s! The crime was discovered on %2$s. %3$s, and %4$s</string>
+    <string name="crime_report_solved">The case is solved</string>
+    <string name="crime_report_unsolved">The case is not solved</string>
+    <string name="crime_report_no_suspect">there is no suspect</string>
+    <string name="crime_report_suspect">the suspect is %s</string>
+    <string name="crime_report_subject">CriminalIntent</string>
+    <string name="send_report">Send crime</string>
+    <string name="crime_call_suspect_text">Call Suspect</string>
+    <string name="crime_call_no_number">У подозреваемого нет номера телефона</string>
+    <string name="crime_call_no_permission">Нужно разрешение на доступ к контактам</string>
+</resources>
